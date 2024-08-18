@@ -20,7 +20,7 @@ author: Lukas Lerner
 ###############################################
 
 navbar-links:
-  About Me: "Teams"
+  Teams: "teams"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
