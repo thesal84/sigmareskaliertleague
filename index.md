@@ -1,4 +1,4 @@
 ---
 layout: home
-title: AoS 4 Escalation League Sigmar Eskaliert
+title: AoS 4 Escalation League
 ---
